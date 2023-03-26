@@ -1,0 +1,601 @@
+*{
+
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+
+
+.container1{
+    /* border: 2px solid red; */
+
+    height: 710px;
+    width: 100%;
+     bottom: 9px; 
+     position: relative;
+     bottom: 8px;
+     background-color: black;
+    /* position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+     left: 0; */
+
+}
+
+.netflix{
+    position: relative;
+    /* bottom: 200px;
+    left: 100px; */
+    bottom: 695px;
+    left: 170px;
+  font-size: 40px;
+  font-weight: 750;
+color: rgba(229, 9, 20, 1);
+
+
+}
+
+.signin{
+
+    position: relative;
+    width: 60px;
+    bottom: 740px;
+    left: 1250px;
+    padding-left: 20px;
+    border-radius: 7px;
+    padding-right: 10px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    background-color: red;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.umovies{
+    position: relative;
+    bottom: 520px;
+    left: 300px;
+    font-size: 3rem;
+    font-weight: 900;
+
+    color: #fff;
+}
+
+.watch{
+
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #fff;
+    position: relative;
+    bottom: 500px;
+    left: 570px;
+
+}
+
+.ready{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #fff;
+    position: relative;
+    bottom: 480px;
+    left: 380px;
+
+
+}
+
+.emai{
+
+    color: #acacac;
+    
+    position: relative;
+    bottom: 460px;
+    left: 480px;
+    font-size: 1rem;
+    font-weight: 400;
+    border: 1px solid #acacac ; 
+     padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 17px;
+    padding-right: 100px;
+    border-radius: 6px;
+    width: 220px;
+    background-color: #514e4e37;
+}
+
+.gets2{
+/* border: 2px solid #fff; */
+background-color: rgb(229, 9, 20);;
+color: #fff;
+width: 160px;
+
+padding-left: 30px;
+left:827px ;
+position: relative;
+bottom: 514px;
+font-size: 1.5rem;
+font-weight: 500;
+padding-top:10px ;
+padding-bottom: 12px;
+border-radius: 5px;
+
+}
+
+.img1{
+
+    height: 710px;
+    width: 100%;
+
+
+}
+
+.container2{
+height:12px;
+    width: 100%;
+background-color: rgba(45, 45, 45, 1);
+position: relative;
+bottom: 25px;
+
+}
+
+.container3{
+    /* border: 2px solid red; */
+    height: 565px;
+    width: 100%;
+    position: relative;
+    bottom: 27px;
+    background-color: black;
+}
+
+.container4{
+    height:12px;
+    width: 100%;
+background-color: rgba(45, 45, 45, 1);
+position: relative;
+bottom: 27px;
+
+}
+
+.container5{
+
+    /* border: 2px solid red; */
+    height: 565px;
+    width: 100%;
+    position: relative;
+    bottom: 27px;
+    background-color: black;
+
+}
+
+.container6{
+    height:12px;
+    width: 100%;
+background-color: rgba(45, 45, 45, 1);
+position: relative;
+bottom: 27px;
+}
+
+.container7{
+
+    
+    /* border: 2px solid red; */
+    height: 565px;
+    width: 100%;
+    position: relative;
+    bottom: 27px;
+    background-color: black;
+}
+
+.container8{
+    height:12px;
+    width: 100%;
+background-color: rgba(45, 45, 45, 1);
+position: relative;
+bottom: 27px;
+
+
+}
+
+.container9{
+    
+    /* border: 2px solid red; */
+    height: 565px;
+    width: 100%;
+    position: relative;
+    bottom: 27px;
+    background-color: black;
+
+
+}
+
+.container10{
+
+    height:12px;
+    width: 100%;
+background-color: rgba(45, 45, 45, 1);
+position: relative;
+bottom: 27px;
+
+
+}
+
+.container11{
+
+    /* border: 2px solid red; */
+    height: 910px;
+    width: 100%;
+    position: relative;
+    bottom: 27px;
+    background-color: black;
+
+}
+
+.container12{
+
+    height:12px;
+    width: 100%;
+background-color: rgba(45, 45, 45, 1);
+position: relative;
+bottom: 27px;
+
+
+}
+
+.container13{
+ 
+    
+
+    /* border: 2px solid red; */
+    height: 565px;
+    width: 100%;
+    position: relative;
+    bottom: 27px;
+    background-color: black;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
+
+.grid{
+    position: relative;
+    left: 250px;
+    top: 145px;
+    height: 265px;
+    width: 100%;
+    position: relative;
+    bottom: 27px;
+    display: grid;
+    grid-template-columns: repeat(3,300px);
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+
+
+}
+
+.box{
+    color: #fff;
+    /* background-color:red; */
+    /* border: 2px solid white; */
+    height: 18px;
+    padding-bottom: 4px;
+    padding-right: 130px;
+    font-size: 0.875rem;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-weight: 400;
+
+}
+
+.Q{
+position: relative;
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: 400;
+    top: 110px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    left: 250px;
+}
+
+.design1{
+
+    font-size: 3rem;
+    font-weight: 900;
+    color: #fff;
+    position: relative;
+    bottom: 125px;
+    left: 170px;
+}
+
+.design2{
+
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 400;
+    position: relative;
+    bottom: 110px;
+    left: 170px;    
+
+}
+
+.design3{
+
+    
+    font-size: 3rem;
+    font-weight: 900;
+    color: #fff;
+    position: relative;
+    top: 165px;
+    left: 740px;
+}
+
+
+.design4{
+
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 400;
+    position: relative;
+    top: 180px;
+    left: 740px;  
+
+}
+
+.freqasked{
+    font-size: 3rem;
+    font-weight: 900;
+    color: #fff;
+    position: relative;
+    top: 60px;
+    left: 410px;
+
+
+}
+
+.one{
+    position: relative;
+    color: #fff; 
+    font-size: 1.5rem;
+    font-weight: 400;
+    /* border: 2px solid red; */
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right:40px ;
+    padding-bottom: 25px;
+    width: 1100px;
+    left: 175px;
+    top: 85px;
+    background-color:  rgba(45, 45, 45, 1);
+
+}
+.two{
+    position: relative;
+    color: #fff; 
+    font-size: 1.5rem;
+    font-weight: 400;
+    /* border: 2px solid red; */
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right:40px ;
+    padding-bottom: 25px;
+    width: 1100px;
+    left: 175px;
+    top: 95px;
+   background-color:  rgba(45, 45, 45, 1);
+
+
+}
+.three{
+    position: relative;
+    color: #fff;
+     font-size: 1.5rem;
+    font-weight: 400;
+    /* border: 2px solid red; */
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right:40px ;
+    padding-bottom: 25px;
+    width: 1100px;
+    left: 175px;
+    top: 105px;
+    background-color:  rgba(45, 45, 45, 1);
+}
+.four{
+    
+    color: #fff; 
+    font-size: 1.5rem;
+    font-weight: 400;
+    position: relative;
+    /* border: 2px solid red; */
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right:40px ;
+    padding-bottom: 25px;
+    width: 1100px;
+    left: 175px;
+    top: 115px;
+    background-color:  rgba(45, 45, 45, 1);
+}
+
+
+.five{
+    color: #fff; 
+    font-size: 1.5rem;
+    font-weight: 400;
+    position: relative;
+    /* border: 2px solid red; */
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right:40px ;
+    padding-bottom: 25px;
+    width: 1100px;
+    left: 175px;
+    top: 125px;
+    background-color:  rgba(45, 45, 45, 1);
+}
+.six{
+    color: #fff;
+     font-size: 1.5rem;
+    font-weight: 400;
+    position: relative;
+    /* border: 2px solid red; */
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right:40px ;
+    padding-bottom: 25px;
+    width: 1100px;
+    left: 175px;
+    top: 135px;
+    background-color:  rgba(45, 45, 45, 1);
+   
+}
+.seven{
+    color: #fff; 
+    font-size: 4.5rem;
+    font-weight: 400;
+    position: relative;
+    left: 1275px;
+    bottom: 420px;
+}
+.eight{
+    color: #fff; 
+    font-size: 4.5rem;
+    font-weight: 400;
+    position: relative;
+    left: 1275px;
+    bottom: 425px;
+
+}
+.nine{
+    color: #fff;
+     font-size: 4.5rem;
+    font-weight: 403;
+    position: relative;
+    left: 1275px;
+    bottom: 440px;
+}
+.ten{
+    color: #fff; 
+    font-size: 4.5rem;
+    font-weight: 400;
+    position: relative;
+    left: 1275px;
+    bottom: 440px;
+}
+.eleven{
+    color: #fff;
+     font-size: 4.5rem;
+    font-weight: 400;
+    position: relative;
+    left: 1275px;
+    bottom: 440px;
+}
+.twelve{
+    color: #fff; 
+    font-size: 4.5rem;
+    font-weight: 400;
+    position: relative;
+    left: 1275px;
+    bottom: 440px;
+}
+
+
+.readyto{
+
+    color:#fff ;
+    font-weight: 400;
+    font-size: 1.25rem;
+    position: relative;
+    bottom: 400px;
+    left: 440px;
+
+}
+
+.email{
+
+    color: #acacac;
+    
+    position: relative;
+    bottom: 380px;
+    left: 490px;
+    font-size: 1rem;
+    font-weight: 400;
+    border: 1px solid #acacac ; 
+     padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 17px;
+    padding-right: 100px;
+    border-radius: 6px;
+    width: 220px;
+    background-color: #514e4e37;
+    
+}
+
+.gets{
+/* border: 2px solid #fff; */
+background-color: rgb(229, 9, 20);;
+color: #fff;
+width: 150px;
+
+padding-left: 20px;
+left:837px ;
+position: relative;
+bottom: 436px;
+font-size: 1.5rem;
+font-weight: 500;
+padding-top:10px ;
+padding-bottom: 12px;
+border-radius: 5px;
+
+}
+
+.design10{
+    
+    font-size: 3rem;
+    font-weight: 900;
+    color: #fff;
+    position: relative;
+    top: 190px;
+    left: 170px;
+}
+    
+    
+
+.design11{
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 400;
+    position: relative;
+    top:205px;
+    left: 170px;    
+
+
+
+
+}
+
+.tv{
+
+    position: relative;
+    bottom: 460px;
+    left: 800px;
+}
+
+
+.millie{
+
+    position: relative;
+    bottom: 180px;
+    left:70px;
+}
+
+.saif{
+    position: relative;
+    bottom: 80px;
+    left: 760px;
+}
+
+.children{
+
+    position: relative;
+    bottom: 180px;
+    left:70px;
+}
+
+
+
+
